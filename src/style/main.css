@@ -1,0 +1,7 @@
+:root {
+    --color-soft-green: #83c4ba;
+}
+
+.text-code {
+    color: var(--color-soft-green);
+}
